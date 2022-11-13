@@ -56,7 +56,7 @@ The exit cell (or goal node) will always be the bottom-right most cell
 * create dfsmaze.py project
 * click the run button on the VSC
 
-**Output:**
+## **Output:**
 
 <img width="794" alt="g9" src="https://user-images.githubusercontent.com/23255126/201502808-76066d28-b026-4041-9dd1-ea9a24296e56.png">
 
