@@ -42,7 +42,7 @@ The ball can go through the empty spaces by rolling right, left, up, down.
  
 ### **On Ubuntu:**
 - Download bfsmaze.py from the code link
-- run python code: python3 dfsmaze.py
+- run python code: python3 bfsmaze.py
 
  ### **Visual Studio:**
 - create bfsmaze.py project
