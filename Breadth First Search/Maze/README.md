@@ -28,7 +28,7 @@ Destination: [2,1]
 
 <img width="356" alt="bfs3" src="https://user-images.githubusercontent.com/23255126/201551423-9fbe4362-4d2d-4f06-8ee4-95dd206caf62.png">
 
-** The ball can go through the empty spaces by rolling right, left, up, down. **
+ **The ball can go through the empty spaces by rolling right, left, up, down.** 
 
 <img width="395" alt="k1" src="https://user-images.githubusercontent.com/23255126/201551426-8b41f42e-b1c3-4f9a-86e5-4d791699d7fc.png">
 
