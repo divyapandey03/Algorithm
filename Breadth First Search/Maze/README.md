@@ -36,7 +36,7 @@ Destination: [2,1]
 
 <img width="455" alt="BFS2" src="https://user-images.githubusercontent.com/23255126/201551446-409babde-12eb-4172-af53-19c47123bdb2.png">
 
- # **Code:** https://github.com/divyapandey03/Algorithm/blob/main/Breadth%20First%20Search/bfsmaze.py
+ # **Code:** https://github.com/divyapandey03/Algorithm/blob/main/Breadth%20First%20Search/Maze/bfsmaze.py
  
  # Run Program: 
  
